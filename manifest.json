@@ -1,0 +1,16 @@
+{
+  "name": "Math x",
+  "short_name": "Math x",
+  "description": "Math x Educational Platform",
+  "start_url": "/mrabdalrahman-platform/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
